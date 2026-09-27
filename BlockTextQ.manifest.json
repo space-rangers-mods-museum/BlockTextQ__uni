@@ -1,0 +1,47 @@
+{
+  "exhibit_name": "BlockTextQ",
+  "source": [
+    {
+      "kind": "exe",
+      "archive": "Space_Rangers_Universe_18.09.26.exe",
+      "path": "C:\\Users\\ringill\\repo\\space_rangers\\origin_artefact\\downloaded\\uni\\Space_Rangers_Universe_18.09.26.exe",
+      "size": 1552313752,
+      "sha256": "2407e69beee065c53899ae603a2231dc2019c14aa914d01beea92becf09072e6",
+      "files": 3,
+      "note": "pack unpacked at C:\\Users\\ringill\\repo\\space_rangers\\origin_artefact\\unpacked\\uni (installer and overlays applied there)"
+    },
+    {
+      "kind": "zip",
+      "archive": "Space Rangers Universe - Update.zip",
+      "path": "C:\\Users\\ringill\\repo\\space_rangers\\origin_artefact\\downloaded\\uni\\Space Rangers Universe - Update.zip",
+      "size": 6773,
+      "sha256": "49ccd1f558f274482d047eb38624ec520a74fc268216b376abaf86d2dcf21988",
+      "files": 0,
+      "note": "pack unpacked at C:\\Users\\ringill\\repo\\space_rangers\\origin_artefact\\unpacked\\uni (installer and overlays applied there)"
+    }
+  ],
+  "exhibit_archive": {
+    "path": "BlockTextQ.zip",
+    "size": 1560,
+    "sha256": "402557cb5ce28ba6a35c6253f71ba37ca561492cabfc27322fec6da11ac8edd8",
+    "root": "Mods/Tweaks/BlockTextQ",
+    "entries": 3
+  },
+  "files": [
+    {
+      "path": "CFG/Eng/Lang.dat",
+      "size": 274,
+      "sha256": "ddcbc774b93cc6606aeccb1b30fa87de3e679e0c4c05a8e552cc228c646314c7"
+    },
+    {
+      "path": "CFG/Rus/Lang.dat",
+      "size": 268,
+      "sha256": "fcced74cd5648ff9a2c9ff9b7174641f19c6e38d701f72c85faa0bfa4dfb4406"
+    },
+    {
+      "path": "ModuleInfo.txt",
+      "size": 1448,
+      "sha256": "0f9680804c203bf4a90067b3471599fefaec8661bc9294fa1c2508d494a68e20"
+    }
+  ]
+}
